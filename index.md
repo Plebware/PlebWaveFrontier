@@ -32,7 +32,7 @@ Built on MX Linux and XFCE, the PlebMachine project focuses on:
 ## Active Networks
 
 ### Technical Core
-- [PlebMachine System Core](https://plebware.github.io/plebmachine/)
+- [PlebMachine System Core](https://github.com/Plebware/PlebMachine/blob/master/index.md))
 
 ### Writing & Fiction
 - [Otto Archive](https://plebware.github.io/otto/)

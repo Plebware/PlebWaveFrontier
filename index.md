@@ -17,7 +17,7 @@
 - [🖥️ PlebMachine System Core](https://Plebware.github.io/PlebMachine/)
 
 ### ✍️ Writing & Fiction
-- [📚 Otto Archive](https://Plebware.github.io/otto/)
+- [📚 Otto Archive](https://Plebware.github.io/Otto/)
 
 ---
 

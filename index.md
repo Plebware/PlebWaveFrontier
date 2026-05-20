@@ -14,10 +14,10 @@
 ## 🌐 Active Networks
 
 ### ⚙️ Technical Core
-- [🖥️ PlebMachine System Core](https://plebware.github.io/PlebMachine/)
+- [🖥️ PlebMachine System Core](https://Plebware.github.io/PlebMachine/)
 
 ### ✍️ Writing & Fiction
-- [📚 Otto Archive](https://plebware.github.io/otto/)
+- [📚 Otto Archive](https://Plebware.github.io/otto/)
 
 ---
 

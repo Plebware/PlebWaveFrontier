@@ -29,16 +29,13 @@ Built on MX Linux and XFCE, the PlebMachine project focuses on:
 | AI Integration Experiments | In Progress |
 
 ---
-
-## ACTIVE NETWORKS
+## Active Networks
 
 ### Technical Core
-- [PlebMachine System Core](../plebmachine/)
+- [PlebMachine System Core](https://plebware.github.io/plebmachine/)
 
 ### Writing & Fiction
-- [Otto Archive](../otto/)
-
----
+- [Otto Archive](https://plebware.github.io/otto/)
 
 ## CURRENT DEVELOPMENT
 

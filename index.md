@@ -1,4 +1,10 @@
 # 🖥️ PLEBWARE CONTROL CENTER
+---
+## 🌐 Plebware Links
+---
+ ⚙️ Technical Core- [🖥️ PlebMachine System Core](https://Plebware.github.io/PlebMachine/) | ✍️ Writing & Fiction - [📚 Otto Archive](https://Plebware.github.io/otto.md/)
+---
+
 # 🧭 The Origin of Plebware
 
 Plebware began as an idea rooted in practicality rather than commercial ambition.

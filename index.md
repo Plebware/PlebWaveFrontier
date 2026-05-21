@@ -121,7 +121,7 @@ Only ongoing development driven by curiosity, resilience, and the desire to buil
 
 ---
 
-### 🖥️ PlebMachine
+# 🖥️ PlebMachine
 Human-Centred Linux Engineering
 
 ## ⚡ System Status

@@ -113,6 +113,9 @@ At its core, Plebware remains guided by the same original belief:
 
 ## 🌐 Active Networks
 
+### ✍️ Othello Cody Verrocchio
+- [📚 Main Authoring Website](https://www.othelloverrocchio.co.za/)
+
 ### ⚙️ Technical Core
 - [🖥️ PlebMachine System Core](https://Plebware.github.io/PlebMachine/)
 

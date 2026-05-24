@@ -1,3 +1,4 @@
+![PlebMachine Header](assets/images/Developer.png)
 # 🖥️ PLEBWARE CONTROL CENTER
 ---
 ## 🌐 Plebware Links | ⚙️ [🖥️ PlebMachine System Core](https://Plebware.github.io/PlebMachine/) | ✍️  [📚 Otto Archive](https://Plebware.github.io/otto.md/)

@@ -6,129 +6,100 @@
 
 # 🧭 The Origin of Plebware
 
-Plebware began as an idea rooted in practicality rather than commercial ambition.
+Plebware began as a practical philosophy long before it became a website, a development concept, or a computing ecosystem.
 
-The concept emerged from years of working with ageing hardware, lightweight Linux systems, and the growing frustration with increasingly bloated, restrictive, and resource-heavy computing environments.
+Its origins were rooted in necessity, experimentation, and resistance to the growing culture of disposable technology.
 
-The original vision was simple:
+The project emerged from years of working with ageing hardware, repairing systems others considered obsolete, and learning how to keep machines functional under difficult real-world conditions. Instead of accepting the idea that older computers were worthless, the goal became finding ways to extend their usefulness through lightweight Linux environments, careful optimisation, and modular system design.
+
+From the very beginning, Plebware rejected the notion that effective computing required expensive hardware or corporate-controlled ecosystems.
+
+The guiding principle was simple:
 
 > Build systems for ordinary people using ordinary hardware.
 
-The word “Plebware” itself was chosen deliberately.
+The name **Plebware** was chosen deliberately.
 
-It was inspired by the idea that technology should remain accessible to everyday users rather than becoming exclusive, disposable, or dependent on expensive ecosystems.
+The term was inspired by the word *plebeian* — ordinary people — reflecting the belief that technology should remain accessible, repairable, understandable, and usable by everyday users rather than becoming increasingly exclusive, locked down, or dependent on constant upgrades.
 
 ---
 
-## ⚙️ Early Foundations
+# ⚙️ Early Foundations
 
-The foundations of Plebware were shaped through real-world technical experience:
+The foundations of Plebware were shaped through a combination of technical disciplines and life experience, including:
 
 - railway electrical systems
 - mechanical troubleshooting
+- fault diagnosis
 - hardware repair
 - Linux experimentation
 - lightweight computing
 - practical engineering philosophy
+- systems recovery and resilience
 
-These experiences reinforced a core belief:
+These experiences reinforced several enduring beliefs:
 
-> Reliability matters more than hype.
+- reliability matters more than hype
+- maintainability matters more than appearance
+- resilience matters more than trends
+- recoverability matters more than complexity
 
-Rather than chasing trends, the focus became:
-- maintainability
-- resilience
-- clarity
+Rather than chasing fashionable technology movements, Plebware evolved around practical goals:
+
+- keeping older hardware operational
+- reducing unnecessary resource consumption
+- simplifying workflows
+- creating recoverable systems
+- designing modular environments
+- separating system logic from user configuration
+- preserving user control over the machine
+
+---
+
+# 🌐 The Plebware.com Era
+
+Around January 2010, the project formally established an online presence through **Plebware.com**.
+
+The domain was hosted through **GreenGeeks**, where it remained active for many years as both a technical platform and experimental workspace.
+
+Plebware.com became a place for:
+
+- Linux experimentation
+- lightweight system concepts
+- technical discussion
+- creative projects
+- graphics work
+- philosophical ideas surrounding accessible computing
+- early concepts that would later evolve into PlebMachine
+
+The site existed continuously from approximately January 2010 until its eventual closure shortly after the COVID period.
+
+Although the original hosting era eventually ended, the ideas behind Plebware continued evolving independently through ongoing Linux development, writing projects, modular desktop experimentation, and the later emergence of the PlebMachine ecosystem.
+
+---
+
+# 🖥️ The Evolution Toward PlebMachine
+
+Over time, the philosophy behind Plebware expanded beyond simple lightweight Linux usage.
+
+The focus shifted toward creating an adaptive modular environment capable of operating across multiple desktop systems while remaining lightweight, recoverable, and user-controlled.
+
+This eventually evolved into **PlebMachine**:
+
+a modular Linux orchestration environment built around state-driven design, desktop flexibility, and practical resilience rather than corporate standardisation.
+
+The project continues to emphasise:
+
+- modular architecture
+- low-resource operation
 - recoverability
-- efficient workflows
+- user autonomy
+- long-term maintainability
+- practical engineering over marketing trends
 
----
+At its core, Plebware remains guided by the same original belief:
 
-## 🖥️ The Linux Influence
-
-Linux became the natural platform for experimentation.
-
-Over time, lightweight desktop environments and modular workflows proved that older machines could still remain productive and useful when systems were designed intelligently.
-
-MX Linux and XFCE eventually became central pillars of the project because they aligned with the philosophy of:
-
-- stability
-- flexibility
-- low resource consumption
-- user control
-
----
-
-## 🧩 From Idea to Ecosystem
-
-What started as experimentation slowly evolved into a broader ecosystem involving:
-
-- modular desktop orchestration
-- workflow automation
-- AI-assisted productivity
-- GitHub documentation systems
-- technical archives
-- creative writing integration
-- operational control center concepts
-
-This evolution eventually became known as:
-
-# ⚙️ PlebMachine
-
-A modular Linux orchestration framework designed around practical workflows and human-centered computing.
-
----
-
-## 🧠 Philosophy of the Project
-
-Plebware does not aim to compete with large corporate operating systems or enterprise platforms.
-
-Its purpose is different.
-
-The project exists to explore:
-
-- sustainable computing
-- accessible workflows
-- practical automation
-- clarity in system design
-- long-term usability
-- lightweight engineering
-
-At its core, Plebware is an ongoing experiment in building systems that remain understandable and adaptable instead of becoming increasingly opaque and disposable.
-
----
-
-## 🌍 Human-Centered Technology
-
-One of the defining ideas behind Plebware is that technology should support human capability rather than overwhelm it.
-
-Complexity should serve a purpose.
-
-Systems should remain:
-- readable
-- repairable
-- maintainable
-- understandable
-
-The ecosystem intentionally favors practical solutions over unnecessary abstraction.
-
----
-
-## 🚀 Continuing Evolution
-
-Plebware continues to evolve through experimentation, documentation, writing, and technical exploration.
-
-The project remains intentionally independent and adaptive.
-
-There is no rigid roadmap.
-
-Only ongoing development driven by curiosity, resilience, and the desire to build technology that remains grounded in human needs rather than corporate trends.
-
----
-
-# 🖥️ PlebMachine
-Human-Centred Linux Engineering
-
+> Technology should serve people — not the other way around.
 ## ⚡ System Status
 
 | Module | Status |

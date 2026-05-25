@@ -16,13 +16,13 @@ Plebware develops and explores:
 - Experimental productivity environments  
 - Creative automation systems  
 
-At the core of our ecosystem is the **PlebMachine Productivity Layer**, a structured approach to desktop and workflow management.
+At the core of our ecosystem is the [**PlebMachine Productivity Layer**](http://plebware.github.io/PlebMachine/), a structured approach to desktop and workflow management.
 
 ---
 
 ## PlebMachine Productivity Layer
 
-PlebMachine is a modular productivity and system orchestration framework designed for Linux environments.
+[PlebMachine](http://plebware.github.io/PlebMachine/) is a modular productivity and system orchestration framework designed for Linux environments.
 
 ### Key Principles
 

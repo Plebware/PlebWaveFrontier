@@ -41,7 +41,7 @@ These experiences reinforced several enduring beliefs:
 
 - reliability matters more than hype
 - maintainability matters more than appearance
-- resilience matters more than trends
+- Resilience matters more than trends
 - recoverability matters more than complexity
 
 Rather than chasing fashionable technology movements, Plebware evolved around practical goals:
@@ -122,6 +122,8 @@ At its core, Plebware remains guided by the same original belief:
 ### ✍️ Writing & Fiction
 - [📚 Otto Archive](https://Plebware.github.io/otto.md/)
 
+### ✍️ Othello Cody Verrocchio's Own GitHub
+- [✍️ Othello Verrocchio Alternative GitHub](https://othelloverrocchio-alt.github.io/home/)
 ---
 
 ## 🚀 Quick Access

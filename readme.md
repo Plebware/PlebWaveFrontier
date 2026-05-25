@@ -2,7 +2,7 @@
 
 **Plebware** is a collaborative development organization focused on modular media systems, Linux-based productivity tooling, and experimental desktop orchestration frameworks.
 
-Founded by [**Otto Brinkmeier**](https://plebware.github.io/otto/) and **Jullian Boyd de Villiers**, the project group builds systems that merge creativity, automation, and structured workflow design.
+Founded by [**Otto Brinkmeier**](https://plebware.github.io/otto/) and [**Jullian Boyd de Villiers**](https://plebware.github.io/juelz/), the project group builds systems that merge creativity, automation, and structured workflow design.
 
 ---
 

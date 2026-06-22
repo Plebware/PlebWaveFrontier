@@ -3,11 +3,6 @@ layout: default
 title: The Origin of Plebware
 ---
 
-# The Origin of Plebware
-
-... (rest of your content stays exactly the same) ...
-
-
 # 🧭 The Origin of Plebware
 
 Plebware began as a practical philosophy long before it became a website, a development concept, or a computing ecosystem.

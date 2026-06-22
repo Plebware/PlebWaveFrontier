@@ -1,7 +1,11 @@
 ---
 layout: default
-title: PlebMachine Core
+title: The Origin of Plebware
 ---
+
+# The Origin of Plebware
+
+... (rest of your content stays exactly the same) ...
 
 
 # 🧭 The Origin of Plebware

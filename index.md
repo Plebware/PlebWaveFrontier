@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Origin of Plebware
+title: The Origin of PlebWave Frontier
 ---
 
 # 🧭 The Story of PlebWave Frontier

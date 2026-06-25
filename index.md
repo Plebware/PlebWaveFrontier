@@ -3,6 +3,10 @@ layout: default
 title: The Origin of PlebWave Frontier
 ---
 
+{% include dashboard.html %}
+
+----
+
 # 🧭 The Story of PlebWave Frontier
 
 ## From Plebware to PlebWave Frontier
